@@ -1,0 +1,16 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo8 -N"C:\Users\amine\OneDrive\Bureau\formation 1\code 1.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\amine\OneDrive\Bureau\formation 1\" "code 1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	121	Compilation Started	P16F84A.c
+diagnostics: 175	122	Compiled Successfully	P16F84A.c
+diagnostics: 0	121	Compilation Started	__Lib_Delays.c
+diagnostics: 93	122	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	125	All files Preprocessed in 47 ms	 
+diagnostics: 0	121	Compilation Started	code 1.c
+diagnostics: 10	122	Compiled Successfully	code 1.c
+diagnostics: 0	126	All files Compiled in 47 ms	 
+hint: 0	1140	Used RAM (bytes): 3 (3%)  Free RAM (bytes): 103 (97%)	Used RAM (bytes): 3 (3%)  Free RAM (bytes): 103 (97%)
+hint: 0	1140	Used ROM (program words): 11 (1%)  Free ROM (program words): 2037 (99%)	Used ROM (program words): 11 (1%)  Free ROM (program words): 2037 (99%)
+diagnostics: 0	124	Project Linked Successfully	code 1.mcppi
+diagnostics: 0	127	Linked in 31 ms	 
+diagnostics: 0	128	Project 'code 1.mcppi' completed: 328 ms	 
+diagnostics: 0	103	Finished successfully: 26 sept. 2024, 18:54:45	code 1.mcppi
